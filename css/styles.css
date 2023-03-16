@@ -1,0 +1,23 @@
+*{  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.special-offer {
+    width: 1140px;
+    height: 333.08px;
+}
+
+.block {
+    background: linear-gradient(to top, #008BF0, #D943C9);
+    weight: 555px;
+    height: 296px;
+}
+
+.group {
+
+}
+
+h3 {
+
+}
